@@ -22,7 +22,7 @@ def main():
         print("maze can not be solved!")
     else:
         print("maze solved!")
-    win.wait_for_close()
+    #win.wait_for_close()
 
 
 main()
